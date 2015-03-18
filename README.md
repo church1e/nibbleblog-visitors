@@ -16,7 +16,7 @@ Simple plugin for nibbleblog showing visitor statistics on the site.
 
 # Install
 
-1. Copy the "visitor" folder into Nibbleblog's plugin directory.
+1. Copy the "visitors" folder into Nibbleblog's plugin directory.
 2. Install the "Visitor Stats" plugin via the Nibbleblog Dashboard.
 
 
