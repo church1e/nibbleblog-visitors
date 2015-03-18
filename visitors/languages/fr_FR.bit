@@ -1,0 +1,8 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+        'NAME'=>'Statistiques Visiteurs',
+        'DESCRIPTION'=>'Afficher les statistiques des visiteurs (ex: nombre de personnes en ligne, visites aujourd'hui, hier, cette semaine, ce mois-ci, cette année, les visiteurs au total et jour avec un nombre record de visiteurs.'
+);
+
+?>
