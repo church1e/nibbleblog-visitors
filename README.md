@@ -1,8 +1,7 @@
 # nibbleblog-visitors
 VISITOR STATS plugin for Nibbleblog
 
-
-# Details
+Details
 
 Simple plugin for nibbleblog showing visitor statistics on the site.
 
@@ -14,16 +13,13 @@ Simple plugin for nibbleblog showing visitor statistics on the site.
 * # visitors this year
 * Record date with most visitors
 
-# Install
-
+Install
 1. Copy the "visitors" folder into Nibbleblog's plugin directory.
 2. Install the "Visitor Stats" plugin via the Nibbleblog Dashboard.
 
 
-# Nibbleblog
-
+Nibbleblog
 Easy, fast and free CMS Blog. All you need is PHP to work.
 
 http://www.nibbleblog.com
-
 https://github.com/dignajar/nibbleblog
